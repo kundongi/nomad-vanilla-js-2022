@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Vanilla Final Project 2022
 
-HTML & CSS are so much fun!
+It's fun~!
