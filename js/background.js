@@ -1,4 +1,4 @@
-const bgImages = ["0.jpg", "1.jpg", "2.jpg"];
+const bgImages = ["0.jpg", "1.jpg", "2.jpg", "4.png"];
 
 const chosenImage = bgImages[Math.floor(Math.random() * bgImages.length)];
 
